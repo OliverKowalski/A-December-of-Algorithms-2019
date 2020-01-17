@@ -1,0 +1,19 @@
+{
+  "name": "a-december-of-algorithms-2019",
+  "version": "1.0.0",
+  "description": "Solution done by Oliver Kowalski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverKowalski/A-December-of-Algorithms-2019.git"
+  },
+  "author": "Oliver Kowalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverKowalski/A-December-of-Algorithms-2019/issues"
+  },
+  "homepage": "https://github.com/OliverKowalski/A-December-of-Algorithms-2019#readme"
+}
